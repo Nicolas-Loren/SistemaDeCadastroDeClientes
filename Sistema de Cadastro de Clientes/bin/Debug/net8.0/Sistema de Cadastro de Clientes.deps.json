@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema de Cadastro de Clientes/1.0.0": {
+        "runtime": {
+          "Sistema de Cadastro de Clientes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Cadastro de Clientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.AssemblyInfoInputs.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.AssemblyInfo.cs
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\bin\Debug\net8.0\Sistema de Cadastro de Clientes.exe
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\bin\Debug\net8.0\Sistema de Cadastro de Clientes.deps.json
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\bin\Debug\net8.0\Sistema de Cadastro de Clientes.runtimeconfig.json
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\bin\Debug\net8.0\Sistema de Cadastro de Clientes.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\bin\Debug\net8.0\Sistema de Cadastro de Clientes.pdb
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\refint\Sistema de Cadastro de Clientes.dll
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.pdb
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\Sistema de Cadastro de Clientes.genruntimeconfig.cache
+C:\Users\nitro\Documents\Projetos C#\Exercícios\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\Sistema de Cadastro de Clientes\obj\Debug\net8.0\ref\Sistema de Cadastro de Clientes.dll
